@@ -90,12 +90,6 @@
 		"url": "https://en.cppreference.com/mwiki/index.php?title=Special%3ASearch&search=@@q@@"
 	},
 	{
-		"key": "c++",
-		"name": "C/CPP Reference",
-		"dom": "cppreference.com",
-		"url": "https://en.cppreference.com/mwiki/index.php?title=Special%3ASearch&search=@@q@@"
-	},
-	{
 		"key": "js",
 		"name": "JavaScript Reference",
 		"dom": "developer.mozilla.org",

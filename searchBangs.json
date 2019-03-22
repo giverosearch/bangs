@@ -151,7 +151,7 @@
 	},
 	{
 		"key": "so",
-		"name": "StackOverflow",
+		"name": "Stack Overflow",
 		"dom": "www.stackoverflow.com",
 		"url": "https://stackoverflow.com/search?q=@@q@@"
 	},

@@ -1,0 +1,56 @@
+[
+    {
+        "key": "g",
+        "name": "Google",
+        "dom": "www.google.com",
+        "url": "https://www.google.com/search?q=@@q@@"
+    },
+    {
+        "key": "gi",
+        "name": "Google Images",
+        "dom": "www.google.com",
+        "url": "https://www.google.com/search?tbm=isch&q=@@q@@"
+    },
+    {
+        "key": "m",
+        "name": "Google Maps",
+        "dom": "www.google.com",
+        "url": "https://www.google.com/maps/place/@@q@@"
+    },
+    {
+        "key": "maps",
+        "name": "Google Maps",
+        "dom": "www.google.com",
+        "url": "https://www.google.com/maps/place/@@q@@"
+    },
+    {
+        "key": "gm",
+        "name": "Google Maps",
+        "dom": "www.google.com",
+        "url": "https://www.google.com/maps/place/@@q@@"
+    },
+    {
+        "key": "b",
+        "name": "Bing",
+        "dom": "www.bing.com",
+        "url": "https://www.bing.com/search?q=@@q@@"
+    },
+    {
+        "key": "yt",
+        "name": "YouTube",
+        "dom": "www.youtube.com",
+        "url": "https://www.youtube.com/results?search_query=@@q@@"
+    },
+    {
+        "key": "w",
+        "name": "WikiPedia",
+        "dom": "en.wikipedia.org",
+        "url": "https://en.wikipedia.org/wiki/Special:Search?search=@@q@@&fulltext=Search"
+    },
+    {
+        "key": "fb",
+        "name": "Facebook",
+        "dom": "www.facebook.com",
+        "url": "https://www.facebook.com/search/str/@@q@@/keywords_search"
+    }
+]

@@ -61,7 +61,7 @@
 	},
 	{
 		"key": "w",
-		"name": "WikiPedia",
+		"name": "Wikipedia",
 		"dom": "en.wikipedia.org",
 		"url": "https://en.wikipedia.org/wiki/Special:Search?search=@@q@@&fulltext=Search"
 	},

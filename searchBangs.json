@@ -1,56 +1,176 @@
 [
-    {
-        "key": "g",
-        "name": "Google",
-        "dom": "www.google.com",
-        "url": "https://www.google.com/search?q=@@q@@"
-    },
-    {
-        "key": "gi",
-        "name": "Google Images",
-        "dom": "www.google.com",
-        "url": "https://www.google.com/search?tbm=isch&q=@@q@@"
-    },
-    {
-        "key": "m",
-        "name": "Google Maps",
-        "dom": "www.google.com",
-        "url": "https://www.google.com/maps/place/@@q@@"
-    },
-    {
-        "key": "maps",
-        "name": "Google Maps",
-        "dom": "www.google.com",
-        "url": "https://www.google.com/maps/place/@@q@@"
-    },
-    {
-        "key": "gm",
-        "name": "Google Maps",
-        "dom": "www.google.com",
-        "url": "https://www.google.com/maps/place/@@q@@"
-    },
-    {
-        "key": "b",
-        "name": "Bing",
-        "dom": "www.bing.com",
-        "url": "https://www.bing.com/search?q=@@q@@"
-    },
-    {
-        "key": "yt",
-        "name": "YouTube",
-        "dom": "www.youtube.com",
-        "url": "https://www.youtube.com/results?search_query=@@q@@"
-    },
-    {
-        "key": "w",
-        "name": "WikiPedia",
-        "dom": "en.wikipedia.org",
-        "url": "https://en.wikipedia.org/wiki/Special:Search?search=@@q@@&fulltext=Search"
-    },
-    {
-        "key": "fb",
-        "name": "Facebook",
-        "dom": "www.facebook.com",
-        "url": "https://www.facebook.com/search/str/@@q@@/keywords_search"
-    }
+	{
+		"key": "g",
+		"name": "Google",
+		"dom": "www.google.com",
+		"url": "https://www.google.com/search?q=@@q@@"
+	},
+	{
+		"key": "gi",
+		"name": "Google Images",
+		"dom": "www.google.com",
+		"url": "https://www.google.com/search?tbm=isch&q=@@q@@"
+	},
+	{
+		"key": "m",
+		"name": "Google Maps",
+		"dom": "www.google.com",
+		"url": "https://www.google.com/maps/place/@@q@@"
+	},
+	{
+		"key": "maps",
+		"name": "Google Maps",
+		"dom": "www.google.com",
+		"url": "https://www.google.com/maps/place/@@q@@"
+	},
+	{
+		"key": "gm",
+		"name": "Google Maps",
+		"dom": "www.google.com",
+		"url": "https://www.google.com/maps/place/@@q@@"
+	},
+	{
+		"key": "b",
+		"name": "Bing",
+		"dom": "www.bing.com",
+		"url": "https://www.bing.com/search?q=@@q@@"
+	},
+	{
+		"key": "y",
+		"name": "Yahoo",
+		"dom": "www.yahoo.com",
+		"url": "https://search.yahoo.com/search?p=@@q@@"
+	},
+	{
+		"key": "yt",
+		"name": "YouTube",
+		"dom": "www.youtube.com",
+		"url": "https://www.youtube.com/results?search_query=@@q@@"
+	},
+	{
+		"key": "v",
+		"name": "Videos (YouTube)",
+		"dom": "www.youtube.com",
+		"url": "https://www.youtube.com/results?search_query=@@q@@"
+	},
+	{
+		"key": "vi",
+		"name": "Vimeo",
+		"dom": "vimeo.com",
+		"url": "https://vimeo.com/search?q==@@q@@"
+	},
+	{
+		"key": "w",
+		"name": "WikiPedia",
+		"dom": "en.wikipedia.org",
+		"url": "https://en.wikipedia.org/wiki/Special:Search?search=@@q@@&fulltext=Search"
+	},
+	{
+		"key": "fb",
+		"name": "Facebook",
+		"dom": "www.facebook.com",
+		"url": "https://www.facebook.com/search/str/@@q@@/keywords_search"
+	},
+	{
+		"key": "php",
+		"name": "PHP.net",
+		"dom": "php.net",
+		"url": "https://php.net/search.php?show=quickref&pattern=@@q@@"
+	},
+	{
+		"key": "c",
+		"name": "C/CPP Reference",
+		"dom": "cppreference.com",
+		"url": "https://en.cppreference.com/mwiki/index.php?title=Special%3ASearch&search=@@q@@"
+	},
+	{
+		"key": "c++",
+		"name": "C/CPP Reference",
+		"dom": "cppreference.com",
+		"url": "https://en.cppreference.com/mwiki/index.php?title=Special%3ASearch&search=@@q@@"
+	},
+	{
+		"key": "c++",
+		"name": "C/CPP Reference",
+		"dom": "cppreference.com",
+		"url": "https://en.cppreference.com/mwiki/index.php?title=Special%3ASearch&search=@@q@@"
+	},
+	{
+		"key": "js",
+		"name": "JavaScript Reference",
+		"dom": "developer.mozilla.org",
+		"url": "https://developer.mozilla.org/en-US/search?topic=js&q=@@q@@"
+	},
+	{
+		"key": "e",
+		"name": "Ebay",
+		"dom": "www.ebay.com",
+		"url": "https://www.ebay.com/sch/i.html?_nkw=@@q@@"
+	},
+	{
+		"key": "gh",
+		"name": "Github",
+		"dom": "www.github.com",
+		"url": "https://github.com/search?q=@@q@@"
+	},
+	{
+		"key": "git",
+		"name": "Github",
+		"dom": "www.github.com",
+		"url": "https://github.com/search?q=@@q@@"
+	},
+	{
+		"key": "ig",
+		"name": "Instagram",
+		"dom": "www.instagram.com",
+		"url": "https://www.instagram.com/explore/tags/@@q@@/"
+	},
+	{
+		"key": "li",
+		"name": "LinkedIn",
+		"dom": "www.linkedin.com",
+		"url": "https://www.linkedin.com/search/results/all/?keywords=@@q@@"
+	},
+	{
+		"key": "p",
+		"name": "Pinterest",
+		"dom": "www.pinterest.com",
+		"url": "https://www.pinterest.com/search/pins/?q=@@q@@"
+	},
+	{
+		"key": "q",
+		"name": "Quora",
+		"dom": "www.quora.com",
+		"url": "https://www.quora.com/search?q=@@q@@"
+	},
+	{
+		"key": "r",
+		"name": "Reddit",
+		"dom": "www.reddit.com",
+		"url": "https://www.reddit.com/search?q=@@q@@"
+	},
+	{
+		"key": "s",
+		"name": "Startpage",
+		"dom": "www.startpage.com",
+		"url": "https://www.startpage.com/do/search?query=@@q@@"
+	},
+	{
+		"key": "so",
+		"name": "StackOverflow",
+		"dom": "www.stackoverflow.com",
+		"url": "https://stackoverflow.com/search?q=@@q@@"
+	},
+	{
+		"key": "t",
+		"name": "Thesaurus",
+		"dom": "www.thesaurus.com",
+		"url": "https://www.thesaurus.com/browse/@@q@@"
+	},
+	{
+		"key": "tw",
+		"name": "Twitter",
+		"dom": "www.twitter.com",
+		"url": "https://twitter.com/search?q=@@q@@"
+	}
 ]

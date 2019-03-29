@@ -1,0 +1,12 @@
+[
+	{
+		"key": "gh",
+		"name": "Github",
+		"url": "https://github.com/search?q=%s"
+	},
+	{
+		"key": "git",
+		"name": "Github",
+		"url": "https://github.com/search?q=%s"
+	}
+]

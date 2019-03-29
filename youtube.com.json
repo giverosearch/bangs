@@ -1,0 +1,12 @@
+[
+	{
+		"key": "yt",
+		"name": "YouTube",
+		"url": "https://www.youtube.com/results?search_query=%s"
+	},
+	{
+		"key": "v",
+		"name": "Videos (YouTube)",
+		"url": "https://www.youtube.com/results?search_query=%s"
+	}
+]

@@ -13,8 +13,5 @@ Please make sure it is not in the list already
 **Name**
 Name of site the bang would redirect to
 
-**Domain name**
-Domain of the site the bang would redirect to (used for downloading the favicon for the site)
-
 **Search URL**
-Exact URL the bang should redirect to, with the query terms replaced by @@q@@ (e.g. "https://www.google.com/search?q=@@q@@")
+Exact URL the bang should redirect to, with the query terms replaced by %s (e.g. "https://www.google.com/search?q=%s")

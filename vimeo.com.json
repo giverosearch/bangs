@@ -2,6 +2,6 @@
 	{
 		"key": "vi",
 		"name": "Vimeo",
-		"url": "https://vimeo.com/search?q==%s"
+		"url": "https://vimeo.com/search?q=%s"
 	}
 ]

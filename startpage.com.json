@@ -1,0 +1,7 @@
+[
+	{
+		"key": "s",
+		"name": "Startpage",
+		"url": "https://www.startpage.com/do/search?query=%s"
+	}
+]

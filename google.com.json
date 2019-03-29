@@ -1,0 +1,27 @@
+[
+	{
+		"key": "g",
+		"name": "Google",
+		"url": "https://www.google.com/search?q=%s"
+	},
+	{
+		"key": "gi",
+		"name": "Google Images",
+		"url": "https://www.google.com/search?tbm=isch&q=%s"
+	},
+	{
+		"key": "m",
+		"name": "Google Maps",
+		"url": "https://www.google.com/maps/place/%s"
+	},
+	{
+		"key": "maps",
+		"name": "Google Maps",
+		"url": "https://www.google.com/maps/place/%s"
+	},
+	{
+		"key": "gm",
+		"name": "Google Maps",
+		"url": "https://www.google.com/maps/place/%s"
+	}
+]

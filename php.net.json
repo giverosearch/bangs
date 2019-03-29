@@ -1,0 +1,7 @@
+[
+	{
+		"key": "php",
+		"name": "PHP.net",
+		"url": "https://php.net/search.php?show=quickref&pattern=%s"
+	}
+]

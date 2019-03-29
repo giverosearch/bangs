@@ -1,0 +1,7 @@
+[
+	{
+		"key": "y",
+		"name": "Yahoo",
+		"url": "https://search.yahoo.com/search?p=%s"
+	}
+]

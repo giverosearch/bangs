@@ -11,4 +11,4 @@ assignees: brianrasmusson
 Which bang is having problems?
 
 **Corrected search URL**
-URL that the bang should redirect to, with the query terms replaced by @@q@@ (e.g. "https://www.google.com/search?q=@@q@@")
+URL that the bang should redirect to, with the query terms replaced by %s (e.g. "https://www.google.com/search?q=%s")

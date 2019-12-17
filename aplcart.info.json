@@ -1,0 +1,12 @@
+[
+	{
+		"key": "apl",
+		"name": "APLcart",
+		"url": "https://aplcart.info/?q=%s"
+	},
+	{
+		"key": "aplcart",
+		"name": "APLcart",
+		"url": "https://aplcart.info/?q=%s"
+	}
+]

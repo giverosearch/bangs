@@ -3,6 +3,8 @@ A search bang can be enter before or after a query, to perform the query on anot
 
 Bang (keyword) | Site
 -------------- | ----
+apl | APLcart
+aplcart | APLcart
 b | Bing
 c | C/CPP Reference
 c++ | C/CPP Reference

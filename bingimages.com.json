@@ -1,0 +1,7 @@
+[
+	{
+		"key": "bi",
+		"name": "Bing Images",
+		"url": "https://www.bing.com/images/search?q=%s"
+	}
+]
